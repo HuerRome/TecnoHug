@@ -1,1 +1,1 @@
-# tecnoHug
+# TecnoHug
